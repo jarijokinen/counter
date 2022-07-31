@@ -1,0 +1,16 @@
+{
+  "name": "@jarijokinen/counter",
+  "version": "0.0.1",
+  "description": "A zero-dependency, vanilla JavaScript library for creating counter animations.",
+  "main": "src/counter.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarijokinen/counter.git"
+  },
+  "author": "Jari Jokinen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jarijokinen/counter/issues"
+  },
+  "homepage": "https://github.com/jarijokinen/counter#readme"
+}
