@@ -1,6 +1,6 @@
 {
   "name": "@jarijokinen/counter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A zero-dependency, vanilla JavaScript library for creating counter animations.",
   "main": "src/counter.js",
   "repository": {
