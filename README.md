@@ -29,7 +29,8 @@ HTML:
     const options = {
       elements: document.querySelectorAll('[data-counter]'),
       delay: 500,
-      speed: 30
+      duration: 2000,
+      fps: 60
     };
 
     counter(options);
